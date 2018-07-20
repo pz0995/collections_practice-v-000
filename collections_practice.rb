@@ -40,6 +40,6 @@ def sum_array
 
 end
 
-def  add_s(array)
+def add_s(array)
   array[2],array[1]=array[1],array[2]
 end
