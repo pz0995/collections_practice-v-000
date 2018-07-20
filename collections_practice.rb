@@ -13,7 +13,7 @@ def sort_array_desc(array)
 end
 
 def sort_array_char_count(array)
-
+array = array.sort_by {|x| x.length}
 
 end
 end
