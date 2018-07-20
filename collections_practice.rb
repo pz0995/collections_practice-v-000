@@ -17,7 +17,7 @@ def sort_array_char_count(array)
   end
 end
 
-def swap_elements
+def swap_elements(array)
     array[2],array[1] = array[1],array[2]
 end
 
@@ -36,7 +36,8 @@ def find_a
 end
 
 def sum_array
-
+    [1,2,3].each do |i| puts i
+    end
 end
 
 def add_s(array)
