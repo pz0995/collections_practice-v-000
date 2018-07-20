@@ -9,7 +9,7 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-arrayy = a.sort.reverse
+    arra]y = a.sort.reverse
 end
 
 def sort_array_char_count(array)
@@ -18,12 +18,11 @@ def sort_array_char_count(array)
 end
 
 def swap_elements
-
-
+    array[2],array[1]=array[1],array[2]
 end
 
 def reverse_array(array, reverse=true)
-a.sort.reverse
+    a.sort.reverse
 end
 
 
@@ -41,5 +40,5 @@ def sum_array
 end
 
 def add_s(array)
-  array[2],array[1]=array[1],array[2]
+
 end
